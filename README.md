@@ -74,5 +74,8 @@ A **one-tailed t-test (α = 0.05)** comparing **high vs. low-freedom countries**
 🔹 **Make improvements & submit a pull request**  
 🔹 Let's make **happiness analytics better together**! 🚀  
 
+### 📜 Presentation
+📎 **Download the slides**: [Happiness_Project_Slides.pdf](./Happiness_Project_Slides.pdf)
+
 ---
 Contact: ivanaloveraruiz@gmail.com
