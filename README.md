@@ -1,5 +1,3 @@
-# EDA_Happiness_Project
-Understanding Happiness Through Data Analytics
 # **EDA_Happiness_Project** 🌍✨  
 **Understanding Happiness Through Data Analytics**  
 
